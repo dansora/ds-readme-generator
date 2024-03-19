@@ -1,19 +1,19 @@
-# readme-generator-app
+# readme generator app
 
   ## Description
-  this is an app that generates a professional readme.md file in my github repo
+  this is a dinamically generated readme.md file on my repo on github
 
   ## Installation
-  instal node, then instal npm inquirer, then run node generate-readme.js and follow instructions
+  install node, install npm inquirer, run the node generate-readme.js command in terminal and follow instructions
 
   ## Usage
-  this is my project from front end dev bootcamp
+  this is my readme generator project in frontend dev bootcamp
 
   ## Contributors
   dan sora
 
   ## Testers
-  daria sora tudor tocan
+  daria sora, tudor tocan
 
   ## License
   MIT License
