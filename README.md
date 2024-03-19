@@ -1,16 +1,16 @@
-# readme generator app
+# readme generator
 
   ## Description
-  this is a dinamically generated readme.md file on my repo on github
+  this is a dinamically generated readme.md file using a cli in vs code terminalthat will generate a dinamically readme.md file
 
   ## Installation
-  install node, install npm inquirer, run the node generate-readme.js command in terminal and follow instructions
+  install node, install npm inquirer, run the following command in terminal node generate-readme.js and follow the instructions
 
   ## Usage
-  this is my readme generator project in frontend dev bootcamp
+  this project is from frontend dev bootcamp week 11 challenge
 
   ## Contributors
-  dan sora
+  dan sora 
 
   ## Testers
   daria sora, tudor tocan
